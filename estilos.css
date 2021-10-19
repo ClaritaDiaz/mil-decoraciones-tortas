@@ -1,0 +1,35 @@
+body{
+   
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(255,132,200,1) 0%); ;
+}
+
+header{
+    border: black 4px;
+    color: black;
+    font-size: 48px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 6px;
+    padding: 6px;
+    text-align: center;
+    text-decoration: blueviolet;
+}
+
+footer{
+    text-align: center;
+    color: black;
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#tortas{
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#myg{
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#presentacion{
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+}
